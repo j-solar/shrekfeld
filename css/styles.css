@@ -1,0 +1,52 @@
+/************ Tag Selectors ***************/
+
+body {
+  background-color: #52de97;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: #1b2a49;
+  text-align: center;
+  width: 25%;
+  margin: 50px auto;
+}
+
+/************ Class Selectors *************/
+
+.squid {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.broccoli {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #465881;
+}
+
+.broccoli:hover {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: gold;
+}
+
+/****************** ID Selectors ******************/
+
+#heading {
+  color: #1b2a49;
+  font-size: 100px;
+}
