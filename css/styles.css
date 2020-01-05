@@ -18,30 +18,12 @@ h2 {
 
 /************ Class Selectors *************/
 
-.squid {
-  max-width: 30%;
+.pic {
+  max-width: 75%;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.broccoli {
-  max-width: 30%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #465881;
-}
-
-.broccoli:hover {
-  max-width: 30%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: gold;
 }
 
 /****************** ID Selectors ******************/
